@@ -1,0 +1,3 @@
+NET "clk" LOC = "B8" ;
+NET "fout" LOC = "J14" ;
+NET "rst" LOC = "G18" ;
